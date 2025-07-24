@@ -48,6 +48,6 @@ _2019 – 2023_
 ---
 
 ## 🔍 Currently Looking For
-I'm looking for a full-time position as a **Backend** or **Full Stack Developer** (remote or hybrid), where I can continue to learn, collaborate with talented teams, and build products that have real-world impact.
+I'm looking for a full-time position as a **Backend**, **Frontend**or **Full Stack Developer** (WFH or WFO in Belo Horizonte/MG), where I can continue to learn, collaborate with talented teams, and build products that have real-world impact.
 
 If my profile resonates with your team or project, feel free to get in touch!
